@@ -1,0 +1,12 @@
+npm init -y // -y flag to answer all the questions
+npm install express
+npm install -g nodemon // for live reload of express server
+npm install dotenv // ability to use process.env
+npm install mongoose // ODM library object data modelling. allows us to use methods to read/write models like ORM
+
+
+npm run dev
+
+
+//BACK END
+npm install date-fns // For date formatting
